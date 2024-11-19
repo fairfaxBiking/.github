@@ -1,5 +1,6 @@
 # Fairfax Biking
 Ride the journey, embrace the freedom.
+<br>
 ![Fairfax Biking](https://github.com/user-attachments/assets/5719a171-fade-48c6-9e6a-70138d658740)
 
 ## About Us
